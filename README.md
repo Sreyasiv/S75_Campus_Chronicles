@@ -6,6 +6,7 @@ Overview: This project will create a fun, interactive platform that categorizes 
 Key Features:
 
 -The personalities will have seperate profiles with funnier yet relatable names,featuring a description, personality traits, and common scenarios they appear in.
+
 -The users can share their own humorous college scenarios, while ensuring a respectful and positive environment.
 
 Tech Stack:(MERN STACK)
