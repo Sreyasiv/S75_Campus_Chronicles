@@ -1,0 +1,19 @@
+{
+  "name": "s75_campus_chronicles",
+  "version": "1.0.0",
+  "description": "A Hilarious Exploration of Rude but Entertaining College Personalities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sreyasiv/S75_Campus_Chronicles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sreyasiv/S75_Campus_Chronicles/issues"
+  },
+  "homepage": "https://github.com/Sreyasiv/S75_Campus_Chronicles#readme"
+}
