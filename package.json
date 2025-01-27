@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Sreyasiv/S75_Campus_Chronicles/issues"
   },
-  "homepage": "https://github.com/Sreyasiv/S75_Campus_Chronicles#readme"
+  "homepage": "https://github.com/Sreyasiv/S75_Campus_Chronicles#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
