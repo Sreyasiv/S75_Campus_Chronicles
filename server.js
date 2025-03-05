@@ -5,8 +5,6 @@ const express = require("express");
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-// Debugging: Check if .env is loading correctly
-console.log("MONGO_URI:", process.env.MONGO_URI); // Add this line
 
 // Connect to MongoDB
 mongoose
