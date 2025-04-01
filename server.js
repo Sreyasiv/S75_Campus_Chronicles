@@ -1,10 +1,10 @@
 require("dotenv").config();
+console.log(process.env.MONGO_URI);
 const mongoose = require("mongoose");
 const express = require("express");
 
 const app = express();
 const PORT = process.env.PORT || 3000;
-
 
 // Connect to MongoDB
 mongoose
@@ -16,6 +16,11 @@ mongoose
 app.get("/", (req, res) => {
   const status = mongoose.connection.readyState === 1 ? "Connected" : "Disconnected";
   res.send(`Database Connection Status: ${status}`);
+});
+
+// Ping Route
+app.get("/ping", (req, res) => {
+  res.send("pong 🏓");
 });
 
 app.listen(PORT, () => {
