@@ -27,3 +27,7 @@ Backend:
 Why This Project:
 
 This project combines humor with creativity, allowing for an engaging and lighthearted exploration of personality types within the college environment. It provides a platform for users to not only have fun but also connect with others who share similar experiences. By working on this project, I will develop my skills in both frontend and backend development, user interactivity, and full-stack integration.
+
+
+deploy link:
+https://s75-campus-chronicles-5.onrender.com
